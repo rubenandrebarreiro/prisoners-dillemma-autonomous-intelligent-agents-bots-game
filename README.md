@@ -1,1 +1,2 @@
-# prisoners-dillema-autonomous-intelligent-agents-bots-game
+# Prisoners' Dillema
+## Autonomous and Intelligent Agents'/Bots' Game (Theory of Computational Games)
